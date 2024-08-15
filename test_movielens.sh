@@ -1,0 +1,16 @@
+CUDA_VISIBLE_DEVICES=0 python main.py \
+--mode test \
+--batch_size 32 \
+--accumulate_grad_batches 32 \
+--dataset movielens_data \
+--data_dir Yours \
+--cans_num 20 \
+--prompt_path ./prompt/movie.txt \
+--rec_embed SASRec \
+--llm_tuning lora \
+--llm_path Yours \
+--rec_model_path ./rec_model/movielens.pt \
+--ckpt_path Yours \
+--output_dir ./output/movielens/ \
+--log_dir Yours \
+--max_epochs 5 
