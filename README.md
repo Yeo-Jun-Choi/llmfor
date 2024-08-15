@@ -1,4 +1,4 @@
-# Enhancing LLMs for Sequential Recommendation with Reversed User History and Efficient User Embeddings
+# Enhancing LLMs for Sequential Recommendation with Reversed User History and User Embeddings
 
 ## Environment Setup
 
