@@ -1,4 +1,4 @@
-# Enhancing LLMs for Sequential Recommendation with Reversed User History and User Embeddings
+# Leveraging Sequential Nature: Large Language Models for Sequential Recommendation
 
 ## Environment Setup
 
