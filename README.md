@@ -18,7 +18,7 @@ sh train_lastfm.sh
 ```
 3. Once the model is trained, you can test it by updating the necessary paths in the test scripts and running:
 ```sh
-sh train_lastfm.sh
+sh test_lastfm.sh
 ```
 
 For other shell files, you can train other datasets.
