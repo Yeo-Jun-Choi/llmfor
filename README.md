@@ -28,9 +28,6 @@ For other shell files, you can train other datasets.
 ## Dataset
 The data folder contains three datasets that can be easily utilized for training and evaluation.
 
-## Acknowledgements
-This work was partly supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2025-00553785) and the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korean government (MSIT) (RS-2021-II211341, Artificial Intelligence Graduate School Program of Chung-Ang University).
-
 ## Citation
 If you find this work useful, please cite our paper:
 ```bibtex
